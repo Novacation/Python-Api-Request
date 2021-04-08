@@ -14,5 +14,4 @@ def getApiResponse():
         print("Error!")
 
 
-# Executing the function
 getApiResponse()
