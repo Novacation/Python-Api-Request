@@ -13,5 +13,4 @@ def getApiResponse():
     except:
         print("Error!")
 
-#testing 3
 getApiResponse()
